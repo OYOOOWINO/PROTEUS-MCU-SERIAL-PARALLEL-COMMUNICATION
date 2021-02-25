@@ -15,8 +15,3 @@ Thats ALL
     8086: Contains the proteus schematic project file used with the assembly code. MASM32 is used as the assembler
     ESP8266: contains the C++ file used to program the MCU and the webpage file in the data sub directory.
     ## NB PlatformIO is used
-## Images
-        i. Proteus Schematic
-        ![PROTUES SCHEMATIC](PROTEUS.jpg)
-        ii. WEB PAGE
-        ![WEBPAGE](WEBPAGE.jpg.jpg)
