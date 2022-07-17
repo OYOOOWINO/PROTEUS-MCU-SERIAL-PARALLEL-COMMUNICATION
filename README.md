@@ -5,7 +5,7 @@ Try making a real mcu (esp8266 in this case) communicate serially with the 8086 
 ## Approach
 Hardware Connection
 
-    ![Hardware Connection](/PROTEUS.jpg)
+    ![Hardware Connection](PROTEUS.jpg)
 
 3. Close the file.
 1. ### Sending From ESP8266 to 8086
