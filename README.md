@@ -3,6 +3,11 @@
 Try making a real mcu (esp8266 in this case) communicate serially with the 8086 simulated microprocessor in proteus hosted on a computer
 
 ## Approach
+Hardware Connection
+
+    ![Hardware Connection](/PROTEUS.jpg)
+
+3. Close the file.
 1. ### Sending From ESP8266 to 8086
     Start a web server on the ESP8266. The server should provide a page with a means of setting a value and sending it to ESP which processes the data and performs a serial write to a COM port via USB. In this case the page is a simple slider made with HTML, styled using CSS and implements XMLHttpRequest for simple background communication.
 
